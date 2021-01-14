@@ -1,11 +1,13 @@
-Package: com.hungbuidev.demo
+Package: hqb-dev.github
+Name: Hqb-Dev
 Version: 1.0
-Section: Utilities
-Maintainer: HùngBùi <hungbg.ads@icloud.com>
 Architecture: iphoneos-arm
-Filename: ./debs/2x2.debs
+Essential: yes
+Author: @Hqb-dev
+Maintainer: QH 
+Section: System
+Depiction: http://hqb-dev.github.io/description.html?id=tqm-mos.iconrepo
+SileoDepiction: http://hqb-dev.github.io/description.html?id=tqm-mos.iconrepo
+Filename: ./debs/2x2.deb
 Size: 4102
 MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
-Description: test!
-Name: 2x2
-Author: Hùng Bùi
