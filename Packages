@@ -6,8 +6,8 @@ Essential: yes
 Author: @Hqb-dev
 Maintainer: QH 
 Section: System
-Depiction: http://hqb-dev.github.io/description.html?id=tqm-mos.iconrepo
-SileoDepiction: http://hqb-dev.github.io/description.html?id=tqm-mos.iconrepo
+Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
 Filename: ./debs/2x2.deb
 Size: 4102
 MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
