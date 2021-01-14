@@ -4,7 +4,7 @@ Section: Utilities
 Maintainer: HùngBùi <hungbg.ads@icloud.com>
 Architecture: iphoneos-arm
 Filename: ./debs/2x2.debs
-Size: 4,102
+Size: 4102
 MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
 Description: test!
 Name: 2x2
