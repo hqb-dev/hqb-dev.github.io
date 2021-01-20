@@ -36,4 +36,36 @@
 </head>
 <body>
 </html>
-<div id="awan"></div>	
+<div id="awan"></div>
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+@-webkit-keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+@-ms-keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+@-moz-keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+#animate-area	{ 
+	width: 560px;
+	height: 210px;
+	background-image: url(bg-clouds.png);
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+ 
+	animation: animatedBackground 40s linear infinite;
+	-ms-animation: animatedBackground 40s linear infinite;
+	-moz-animation: animatedBackground 40s linear infinite;
+	-webkit-animation: animatedBackground 40s linear infinite;
+}
