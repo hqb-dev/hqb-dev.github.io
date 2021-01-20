@@ -4,10 +4,52 @@ Version: 1.0
 Architecture: iphoneos-arm
 Essential: yes
 Author: @Hqb-dev
-Maintainer: QH 
-Section: System
+Maintainer: Hùng Bùi 
+Section: Gói tinh chỉnh
 Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
 SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
 Filename: ./debs/2x2.deb
 Size: 4102
+MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
+
+Package: hqb-dev.github
+Name: Icleaner Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @Hqb-dev
+Maintainer: Hùng Bùi 
+Section: Tiện ích
+Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+Filename: ./debs/icleanerpro.deb
+Size: (6756950
+MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
+
+Package: hqb-dev.github
+Name: Filza Manager 
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @Hqb-dev
+Maintainer: Hùng Bùi 
+Section: Tiện ích
+Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+Filename: ./debs/filzamanager.deb
+Size: 12978808
+MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
+
+Package: hqb-dev.github
+Name: ReProvision
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @Hqb-dev
+Maintainer: Hùng Bùi 
+Section: Tiện ích
+Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
+Filename: ./debs/reprovision.deb
+Size: 14356636
 MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
