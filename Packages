@@ -19,7 +19,7 @@ Package: github.io.hqb.iceanerpro
 Version: 7.9.1
 Architecture: iphoneos-arm
 Maintainer: Hùng Quang Bùi
-Depends: mobilesubstrate
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
 Filename: debs/github.io.hqb.icleanerpro_7.9.1_iphones-arm
 Size: 4817410
 MD5sum: 4f790815b040a7d1ec75c6a3b01dd774
@@ -27,8 +27,8 @@ SHA1: 6f3b1bb6d3511410a21dac9c4dd43886f9b3a37d
 SHA256: 4a7493b5a7a8e32c3f6cf8db1243dc0d6bad4457e99c01b96d9864579a4b62da
 Section: Gói tiện ích
 Description: Icleaner Pro là một tweak dọn dẹp các tập tin đã xóa, rất hữu dụng các bạn nên cài đặt nó.
-Author: Hùng Quang Bùi
+Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://hqb-dev.github.io/depictions/github.io.icleanerpro
 Icon: https://hqb-dev.github.io/Debicon.png
-Name: Icleaner Pro
+Name: iCleaner Pro
 
