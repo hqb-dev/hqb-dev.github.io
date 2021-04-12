@@ -1,55 +1,17 @@
 Package: hqb-dev.github
-Name: Folder 2x2
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
-Essential: yes
-Author: @Hqb-dev
-Maintainer: Hùng Bùi 
+Maintainer: Hùng Bùi
+Depends: mobilesubstrate
+Filename: debs/github.io.hqb.folder2x2_0.0.1_iphones-arm.deb
+Size: 4012
+MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
+SHA1: 5ea99a78943fa07ada46d884ffba146ceeb53fd5
+SHA256: 58bf08c53a34deb594efd580eb211717005c7e40c9800e1b10b6aaac75994caa
 Section: Gói tinh chỉnh
-Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-Filename: ./debs/2x2.deb
-Size: 4102
-MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
+Description: sau khi cài thư mục sẻ chỉ hiện 4 app mà thôi
+Author: Hùng Bùi
+Depiction: https://hqb-dev.github.io/depictions/github.io.folder2x2
+Icon: https://hqb-dev.github.io/DebIcon.png
+Name: Folder 2x2
 
-Package: hqb-dev.github
-Name: Icleaner Pro
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: yes
-Author: @Hqb-dev
-Maintainer: Hùng Bùi 
-Section: Tiện ích
-Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-Filename: ./debs/icleanerpro.deb
-Size: (6756950
-MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
-
-Package: hqb-dev.github
-Name: Filza Manager 
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: yes
-Author: @Hqb-dev
-Maintainer: Hùng Bùi 
-Section: Tiện ích
-Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-Filename: ./debs/filzamanager.deb
-Size: 12978808
-MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
-
-Package: hqb-dev.github
-Name: ReProvision
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: yes
-Author: @Hqb-dev
-Maintainer: Hùng Bùi 
-Section: Tiện ích
-Depiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-SileoDepiction: http://hqb-dev.github.io/description.html?id=hqb-dev
-Filename: ./debs/reprovision.deb
-Size: 14356636
-MD5sum: ee24a2da6a17ba0f13d584b0ed9dceb1
